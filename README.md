@@ -43,5 +43,6 @@ Add ToC
 Object relational mapping (ORM) libraries that provide a high-level abstraction for interacting with databases.
 
 - :m: [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) - Entity Framework Core is a modern object-database mapper for .NET.
-  
+- [Dapper](https://dapper-tutorial.net/) - Dapper is a simple object mapper for .NET and owns the title of King of Micro ORM in terms of speed.
+
 **[⬆ back to top](#contents)**
