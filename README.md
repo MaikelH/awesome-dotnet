@@ -18,9 +18,13 @@ Add ToC
 - [Spectre.Console](https://spectreconsole.net/) - A .NET library that makes it easier to create beautiful console applications.
 - [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful.Console is a C# library that wraps around the System.Console class, exposing enhanced styling functionality.
 
+**[⬆ back to top](#contents)**
+
 ### Standard CLI
 
 - :m: [System.CommandLine](https://learn.microsoft.com/en-us/dotnet/standard/commandline/) - The System.CommandLine library provides functionality such as parsing the command-line input and displaying help text.
+
+**[⬆ back to top](#contents)**
 
 ## Database Drivers
 
@@ -33,7 +37,11 @@ Add ToC
 - [System.Data.SQLite](https://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki) - System.Data.SQLite is an ADO.NET provider for SQLite. 
 - :m: [System.Data.SqlClient](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient?view=net-6.0) - System.Data.SqlClient is the .NET data provider for SQL Server.
 
+**[⬆ back to top](#contents)**
+
 ## ORM
 Object relational mapping (ORM) libraries that provide a high-level abstraction for interacting with databases.
 
 - :m: [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) - Entity Framework Core is a modern object-database mapper for .NET.
+  
+**[⬆ back to top](#contents)**
