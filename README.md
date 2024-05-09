@@ -3,6 +3,8 @@ A curated collection of awesome .NET libraries, tools, frameworks, and software.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python) and [awesome-go](https://raw.githubusercontent.com/avelino/awesome-go).
 
+:m: - Indicates a project maintained by Microsoft.
+
 ## Contents
 
 Add ToC
@@ -29,7 +31,7 @@ Add ToC
 - [NPgsql](https://www.npgsql.org/) - Npgsql is the .NET data provider for PostgreSQL.
 - [SQLite-net](https://github.com/praeclarum/sqlite-net) - SQLite-net is an open source, minimal library to allow .NET applications to store data in SQLite 3 databases.
 - [System.Data.SQLite](https://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki) - System.Data.SQLite is an ADO.NET provider for SQLite. 
-- :m:[System.Data.SqlClient](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient?view=net-6.0) - System.Data.SqlClient is the .NET data provider for SQL Server.
+- :m: [System.Data.SqlClient](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient?view=net-6.0) - System.Data.SqlClient is the .NET data provider for SQL Server.
 
 ## ORM
 Object relational mapping (ORM) libraries that provide a high-level abstraction for interacting with databases.
