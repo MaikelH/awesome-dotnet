@@ -47,24 +47,34 @@ Add ToC
 ### NoSQL Database Drivers
 - [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis/) - High performance Redis client, incorporating both synchronous and asynchronous usage.
 - [MongoDB.Driver](https://mongodb.github.io/mongo-csharp-driver/) - The official .NET driver for MongoDB.
+
 **[⬆ back to top](#contents)**
 
 ## Dependency Injection
 - [Autofac](https://autofac.org/) - Autofac is an .NET IoC container.
 
+**[⬆ back to top](#contents)**
+
 ## Distributed Systems
 - [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library.
+
+**[⬆ back to top](#contents)**
 
 ## File Handling\
 - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - SharpZipLib is a Zip, GZip, Tar, and BZip2 library written entirely in C# for the .NET platform.
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET Standard 2.0 that can unrar, unzip, and untar.
 
+**[⬆ back to top](#contents)**
+
 ## HTTP Clients
 - [RestSharp](https://restsharp.dev/) - RestSharp is a simple REST and HTTP API Client for .NET.
 
+**[⬆ back to top](#contents)**
+
 ## Job Scheduling
 - [Hangfire](https://www.hangfire.io/) - Hangfire is an easy way to perform fire-and-forget, delayed, and recurring tasks inside ASP.NET applications.
-- 
+
+**[⬆ back to top](#contents)**
 
 ## Logging
 - [log4net](https://logging.apache.org/log4net/) - log4net is a tool to help the programmer output log statements to a variety of output targets.
@@ -93,8 +103,12 @@ Add ToC
 ## Mocking
 - [Moq](https://github.com/devlooped/moq) - Moq is the most popular and friendly mocking framework for .NET.
 
+**[⬆ back to top](#contents)**
+
 ## Networking
 - [DnsClient](https://dnsclient.michaco.net/) - DnsClient is a simple yet very powerful and high-performance open-source library to do DNS lookups in .NET.
+
+**[⬆ back to top](#contents)**
 
 ## ORM
 _Object relational mapping (ORM) libraries that provide a high-level abstraction for interacting with databases._
@@ -107,8 +121,12 @@ _Object relational mapping (ORM) libraries that provide a high-level abstraction
 ## RPC
 - [gRPC](https://grpc.io/) - gRPC is a high-performance, open-source universal RPC framework.
 
+**[⬆ back to top](#contents)**
+
 ## Security
 - [BouncyCastle.Cryptography](https://www.nuget.org/packages/BouncyCastle.Cryptography/) - BouncyCastle.NET is a popular cryptography library for .NET
+
+**[⬆ back to top](#contents)**
 
 ## Serialization
 _Libraries and tools for binary serialization._
@@ -118,12 +136,16 @@ _Libraries and tools for binary serialization._
 - [Parquet.NET](https://github.com/aloneguid/parquet-dotnet) - Parquet.NET is a .NET library to read and write Apache Parquet files.
 - :m: [System.Formats.Asn1](https://www.nuget.org/packages/System.Formats.Asn1) - System.Formats.Asn1 is a .NET library for encoding and decoding Abstract Syntax Notation One (ASN.1) data.
 
+**[⬆ back to top](#contents)**
+
 ## Testing
 - [AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open-source library for .NET designed to minimize the 'Arrange' phase of your unit tests.
 - [FluentAssertions](https://fluentassertions.com/) - FluentAssertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a test.
 - [NUnit](https://nunit.org/) - NUnit is a unit-testing framework for all .Net languages.
 - [SpecFlow](https://specflow.org/) - SpecFlow is the #1 .NET open source framework for Behavior-Driven Development, Acceptance Test-Driven Development, and Specification by Example.
 - [xUnit](https://xunit.net/) - xUnit.net is a free, open-source, community-focused unit testing tool for the .NET Framework.
+
+**[⬆ back to top](#contents)**
 
 ## Text Processing
 - [CsvHelper](https://joshclose.github.io/CsvHelper/) - CsvHelper is a library to help read and write CSV files.
@@ -141,6 +163,8 @@ _Libraries and tools for binary serialization._
 
 ## Utility
 - [AutoMapper](https://automapper.org/) - AutoMapper is a simple library that allows you to map objects in .NET.
+
+**[⬆ back to top](#contents)**
 
 ## Validation
 - [FluentValidation](https://fluentvalidation.net/) - A popular .NET library for building strongly-typed validation rules.
