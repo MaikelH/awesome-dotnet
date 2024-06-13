@@ -157,6 +157,7 @@ Add ToC
 - [DnsClient](https://dnsclient.michaco.net/) - DnsClient is a simple yet very powerful and high-performance open-source library to do DNS lookups in .NET.
 - [Flurl](https://flurl.dev/) - A fluent, portable URL builder. To make HTTP calls off the fluent chain, check out Flurl.Http. 
 - [SSH.NET](https://www.nuget.org/packages/SSH.NET) - SSH.NET is a SSH library for .NET, optimized for parallelism.
+- :m: [YARP](https://microsoft.github.io/reverse-proxy/index.html) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET.
 
 **[⬆ back to top](#contents)**
 
